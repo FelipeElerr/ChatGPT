@@ -6,7 +6,7 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background-image: url('https://media1.giphy.com/media/xT9IguCmdC3TD3z9CM/giphy.gif?cid=ecf05e47ltv446dxxkcs9rjfh96okp12fjfabuzp0y9grp29&ep=v1_gifs_search&rid=giphy.gif&ct=g');
+    background-image: url('https://media3.giphy.com/media/d2jjuAZzDSVLZ5kI/giphy.gif?cid=ecf05e47n7iwlxelegovkcpg5t3q8nw3kbwu4pxqw7a9bwpk&ep=v1_gifs_search&rid=giphy.gif&ct=g');
     background-size: cover;
     background-position: center;
 }
@@ -14,7 +14,7 @@ body {
 h1 {
     margin-bottom: 20px;
     text-align: center;
-    color: aqua;
+    color:aqua;
 }
 
 p {
